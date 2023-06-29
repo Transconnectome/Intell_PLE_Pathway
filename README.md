@@ -7,6 +7,14 @@ https://doi.org/10.7554/eLife.88117.1
 Main analysis: R codes for linear mixed model analysis
 
 
+## IGSCA
+Main analysis: Integrated generalized structured component analysis (Hwang et al., 2021)
+A novel Structural Equation Modelling method capable of both latent factor variables and component variables. 
+The GSCA Pro software from https://www.gscapro.com for free.
+We share an image file of our IGSCA model.
+One can easily build the same model used in our study by taking a look into this image.
+
+
 ## Euro
 Sensitivity analysis: Adjustment for ethnic confounding
 R codes for analysis with European ancestry samples.
@@ -36,6 +44,8 @@ Please note that the analyses results have slight differences from those publish
 
 ## References
 Akiba, T., Sano, S., Yanase, T., Ohta, T., & Koyama, M. (2019, July). Optuna: A next-generation hyperparameter optimization framework. _In Proceedings of the 25th ACM SIGKDD international conference on knowledge discovery & data mining_ (pp. 2623-2631).
+
+Hwang, H., Cho, G., Jung, K., Falk, C. F., Flake, J. K., Jin, M. J., & Lee, S. H. (2021). An approach to structural equation modeling with both factors and components: Integrated generalized structured component analysis. _Psychological Methods_, 26(3), 273.
 
 Miao, W., Hu, W., Ogburn, E. L., & Zhou, X. H. (2022). Identifying effects of multiple treatments in the presence of unmeasured confounding. _Journal of the American Statistical Association_, 1-15.
 
