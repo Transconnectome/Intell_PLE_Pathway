@@ -32,7 +32,7 @@ library(lmerTest)
 
 
 ###################################Miao et al (2022)##################################
-source('routineFun.R')
+source('Miao/routineFun.R')
 
 # set RNG 
 RNGkind("L'Ecuyer-CMRG")
