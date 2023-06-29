@@ -1,5 +1,5 @@
 # Intell_PLE_Pathway
-Codes for Gene-Environment Pathways to Cognitive Intelligence and Psychotic-Like Experiences in Children, Park et al.(2023), eLife
+Codes for Gene-Environment Pathways to Cognitive Intelligence and Psychotic-Like Experiences in Children, Park et al.(2023), _eLife_
 https://doi.org/10.7554/eLife.88117.1
 
 
