@@ -20,4 +20,6 @@ Please note that the analyses results have slight differences from those publish
 ## References
 Akiba, T., Sano, S., Yanase, T., Ohta, T., & Koyama, M. (2019, July). Optuna: A next-generation hyperparameter optimization framework. _In Proceedings of the 25th ACM SIGKDD international conference on knowledge discovery & data mining_ (pp. 2623-2631).
 
+Miao, W., Hu, W., Ogburn, E. L., & Zhou, X. H. (2022). Identifying effects of multiple treatments in the presence of unmeasured confounding. _Journal of the American Statistical Association_, 1-15.
+
 Xu, L., Skoularidou, M., Cuesta-Infante, A., & Veeramachaneni, K. (2019). Modeling tabular data using conditional gan. _Advances in Neural Information Processing Systems_, 32.
