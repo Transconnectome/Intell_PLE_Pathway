@@ -1,12 +1,24 @@
 # Intell_PLE_Pathway
 Codes for Gene-Environment Pathways to Cognitive Intelligence and Psychotic-Like Experiences in Children, Park et al.(2023), eLife
 
+
 ## LMM
 Main analysis: R codes for linear mixed model analysis
+
+
+## Euro
+Sensitivity analysis: Adjustment for ethnic confounding
+R codes for analysis with European ancestry samples.
+
 
 ## Null
 Sensitivity analysis: Adjustment for unobserved confounders
 R codes for null treatment approach (Miao et al., 2022). 
+
+
+## Schizo
+Sensitivity analysis: Adjustment for schizophrenia polygenic scores
+
 
 ## Dataset
 Due to ABCD Study's policy on data sharing, we share a synthetic dataset instead of actual, real observations.
