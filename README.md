@@ -21,6 +21,10 @@ R codes for null treatment approach (Miao et al., 2022).
 Sensitivity analysis: Adjustment for schizophrenia polygenic scores
 
 
+## Interaction
+Sensitivity analysis: Linear mixed model analyses with Gene x Environment Interactions
+
+
 ## Dataset
 Due to ABCD Study's policy on data sharing, we share a synthetic dataset instead of actual, real observations.
 The synthetic dataset is made from our final samples (N=6,602), using CTGAN (Xu et al., 2019).
