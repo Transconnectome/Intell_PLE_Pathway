@@ -1,6 +1,6 @@
 rm(list=ls())
 
-data<-read.csv("C:\\Users\\socra\\Desktop\\ABCD Urbanicity\\ABCD_urbanicity_synthetic.csv", header=TRUE)
+data<-read.csv("ABCD_urbanicity_synthetic.csv", header=TRUE)
 
 urb_list<-c("nihtbx_fluidcomp_uncorrected_0y", "nihtbx_cryst_uncorrected_0y", 
             "nihtbx_totalcomp_uncorrected_0y", "totalscore_pps_0y", "distress_score_pps_0y", 
